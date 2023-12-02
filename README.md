@@ -5,8 +5,8 @@
 </a>
 
 ## About me
-**Computer Science student** <br>
-Python | C++ | PHP | SQL | TypeScript | Rust
+Computer Science student & **lifelong learner** <br>
+**Python** | C++ | PHP | SQL | _TypeScript_ | _Rust_
 <br>
 
 <picture>
