@@ -6,7 +6,7 @@
 
 ## About me
 **Computer Science student** <br>
-Python | C++ | SQL | TypeScript | Rust
+Python | C++ | PHP | SQL | TypeScript | Rust
 <br>
 
 <picture>
