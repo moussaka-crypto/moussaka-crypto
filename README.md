@@ -24,5 +24,5 @@ Python | C++ | SQL | TypeScript | Rust
   />
 </picture>
 
-### "Would you lose to degeneracy?"
+## "Would you lose to degeneracy?"
 <a href="https://youtu.be/XBqphGvMfbw"> ![tesla2](https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049) </a>
