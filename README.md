@@ -1,11 +1,11 @@
 # Hello there! 👋 <br> So, you have landed on my GitHub page for some reason...
 
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU">
-  <img src="https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/br-cc-7645_72dpi.jpg?itok=ygaPWH8C" alt="blade runner lego" style="width: 90%;">
+  <img src="https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/br-cc-7645_72dpi.jpg?itok=ygaPWH8C" alt="blade runner lego">
 </a>
 
 ## About me
-Computer Science student & **lifelong learner** <br>
+_Computer Science student_ & **lifelong learner** <br>
 **Python** | C++ | PHP | SQL | _TypeScript_ | _Rust_
 
 <picture>
