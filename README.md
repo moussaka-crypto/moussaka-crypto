@@ -1,13 +1,12 @@
 # Hello there! 👋 <br> So, you have landed on my GitHub page for some reason...
 
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU">
-  <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="blade runner lego" style="width: 100%;">
+  <img src="https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/br-cc-7645_72dpi.jpg?itok=ygaPWH8C" alt="blade runner lego" style="width: 90%;">
 </a>
 
 ## About me
 Computer Science student & **lifelong learner** <br>
 **Python** | C++ | PHP | SQL | _TypeScript_ | _Rust_
-<br>
 
 <picture>
   <source
@@ -23,6 +22,9 @@ Computer Science student & **lifelong learner** <br>
     src="https://raw.githubusercontent.com/moussaka-crypto/moussaka-crypto/snek/github-contribution-grid-snake.svg"
   />
 </picture>
+<br> <br>
 
 ## "Would you lose to degeneracy?"
-<a href="https://youtu.be/XBqphGvMfbw"> ![tesla2](https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049) </a>
+<a href="https://youtu.be/XBqphGvMfbw"> 
+  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 38%">
+</a>
