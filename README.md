@@ -26,5 +26,5 @@ Computer Science student & **lifelong learner** <br>
 
 ## "Would you lose to degeneracy?"
 <a href="https://youtu.be/XBqphGvMfbw"> 
-  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 38%">
+  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 40%">
 </a>
