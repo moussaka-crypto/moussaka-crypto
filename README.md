@@ -6,7 +6,6 @@
 
 ## About me
 _Computer Science student_ & **lifelong learner** <br>
-**Python** | C++ | PHP | SQL | _TypeScript_ | _Rust_
 
 <picture>
   <source
