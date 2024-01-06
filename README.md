@@ -14,6 +14,8 @@
 </a>
 
 <br> <br>
+![qnko](https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/ccfa20e7-49c4-46f0-bd78-f6c4a49495eb)
+
 ## Това е питона ми, Янко. По 2-3 часа го храня с комити.
 <picture>
   <source
