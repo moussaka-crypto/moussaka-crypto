@@ -1,6 +1,6 @@
 # Hello there! 👋 <br>
 <a href="https://www.youtube.com/watch?v=k-3Cppde1pU">
-  <img src="https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/br-cc-7645_72dpi.jpg?itok=ygaPWH8C" alt="blade runner lego">
+  <img src="./img/hello.jpg" alt="blade runner lego">
 </a>
 
 <br> <br>
@@ -10,7 +10,7 @@
 <br> <br>
 ## "Would you lose to degeneracy?"
 <a href="https://youtu.be/XBqphGvMfbw"> 
-  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 60%">
+  <img src = "./img/nahidwin.png" style = "width: 60%">
 </a>
 
 <br> <br>
@@ -30,6 +30,6 @@
   />
 </picture>
 <br>
-<img src="./qnko.jpg" alt="qnko" width="39%" align="right">
+<img src="./img/qnko.jpg" alt="qnko" width="39%" align="right">
 
 ### Когато е гладен, се ядосва и ходи на събрания на ВМРО...
