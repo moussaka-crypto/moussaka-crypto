@@ -30,6 +30,8 @@
   />
 </picture>
 <br>
-<img src="./img/qnko.jpg" alt="qnko" width="35%" align="right">
+<a href="https://www.youtube.com/watch?v=xa3JX3rmV6c">
+  <img src="./img/qnko.jpg" alt="qnko" width="35%" align="right">
+</a>
 
 ### Когато е гладен, се ядосва и ходи на събрания на ВМРО...
