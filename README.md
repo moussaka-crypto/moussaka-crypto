@@ -3,14 +3,18 @@
   <img src="https://news.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/br-cc-7645_72dpi.jpg?itok=ygaPWH8C" alt="blade runner lego">
 </a>
 
-___
-
+<br> <br>
 ## So, you have landed on my GitHub page for some reason...
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moussaka-crypto&theme=redical&custom_title=My%20Contribution%20Graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moussaka-crypto&theme=redical&custom_title=STAY%20HARD%21)](https://www.youtube.com/watch?v=OKN8dFO_ZLA)
 
-## About me
-_Computer Science student_ & **lifelong learner** <br>
+<br> <br>
+## "Would you lose to degeneracy?"
+<a href="https://youtu.be/XBqphGvMfbw"> 
+  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 60%">
+</a>
 
+<br> <br>
+## Това е питона ми, Янко. По 2-3 часа го храня с комити.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -25,9 +29,5 @@ _Computer Science student_ & **lifelong learner** <br>
     src="https://raw.githubusercontent.com/moussaka-crypto/moussaka-crypto/snek/github-contribution-grid-snake.svg"
   />
 </picture>
-<br> <br>
 
-## "Would you lose to degeneracy?"
-<a href="https://youtu.be/XBqphGvMfbw"> 
-  <img src = "https://github.com/moussaka-crypto/moussaka-crypto/assets/64573585/738c5917-6b3f-4909-88c9-3d6370904049" style = "width: 60%">
-</a>
+### Когато е гладен, се ядосва и ходи на събрания на ВМРО...
