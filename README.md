@@ -30,7 +30,7 @@
   />
 </picture>
 <br>
-<a href="https://www.youtube.com/watch?v=xa3JX3rmV6c">
+<a href="https://youtu.be/ZCGrxxyPmGM?si=5kfQBj-E840pJLtQ">
   <img src="./img/qnko.jpg" alt="qnko" width="35%" align="right">
 </a>
 
